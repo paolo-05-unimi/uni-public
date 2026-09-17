@@ -23,6 +23,12 @@ This repo contains some notes about the courses I took at the University of Mila
 | 2.2_cg           | Computer Graphics                | [Course Program](https://tarini.di.unimi.it/teaching/cg2026/)                                                           |
 | 2.2_prog-web     | Programmazione Web e Mobile      | [Course Program](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/programmazione-web-e-mobile-1)     |
 | 2.2_SAD          | Statistica e Analisi dei Dati    | [Course Program](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/statistica-e-analisi-dei-dati)     |
+| 2.2_aspetti_inf  | Aspetti economici, etici, [...]  | [Course Program](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/aspetti-economici-etici-sociali-e-legali-connessi-allo-svolgimento-della-professione-informatica-0) |
+| 3.0_ai           | Intelligenza Artificiale         | [Course Program](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/intelligenza-artificiale-i)        |
+<!--| 3.1_ing-SW       | Ingegneria del Software          | [Course Program](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/ingegneria-del-software)           |
+| 3.1_reti         | Reti di Calcolatori              | [Course Program](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/reti-di-calcolatori-0)             |
+| 3.1_crittografia | Crittografia                     | [Course Program](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/crittografia-0)                    |
+-->
 
 ## Important Notes
 
