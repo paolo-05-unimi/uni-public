@@ -26,6 +26,6 @@ This repo contains some notes about the courses I took at the University of Mila
 
 ## Important Notes
 
-1. The Computer Science Course offers a lot of courses, but some of them are not mandatory. On the official website there's a clear subdivision of the courses into "mandatory" and "optional". For semplicity, the non mandatory course I took (which can be taken in any year) are included in this repo and follow the same naming convention of the other courses.
+1. The Computer Science Course offers a lot of courses, but some of them are not mandatory. On the official website there's a clear subdivision of the courses into "mandatory" and "optional". For semplicity, the non mandatory course I took (which can be taken in any year) are included in this repo and follow the same naming convention as the other courses.
 2. Since others before me have already created some great notes about the courses, in some cases the notes in this repo are not original. In those cases, I will provide a link to the original source of the notes.
 3. The notes in this repo are not guaranteed to be correct. If you find any mistakes, please let me know by opening an issue in this repo. By opening an issue you will also help other students who are taking the same course, so I really appreciate it.
